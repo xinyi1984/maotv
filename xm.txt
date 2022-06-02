@@ -386,5 +386,5 @@
 "cms.qdwght.com"
 ],
   "wallpaper": "",
-  "spider": "http://static-0feaae6a-16de-44b5-b88c-0025d59ad2c3.bspapp.com/xm.jar"
+  "spider": "https://raw.githubusercontent.com/xinyi1984/maotv/main/xm.jar"
 }
